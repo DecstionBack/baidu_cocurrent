@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="baidu:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/baidu_jar</output-path>
+    <root id="archive" name="baidu.jar">
+      <element id="module-output" name="baidu" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jar/jsoup-1.9.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jar/mysql-connector-java-5.1.38-bin.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jar/postgresql-9.4.1209.jre6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
